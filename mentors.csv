@@ -1,0 +1,9 @@
+mentor_id,mentor_name,expertise,max_students,current_load,availability
+M001,Dr. Sharma,Academic,15,8,High
+M002,Ms. Priya,Wellness,12,6,Medium
+M003,Mr. Arjun,Career,20,10,High
+M004,Dr. Meera,Academic,15,12,Low
+M005,Ms. Kavya,Wellness,10,4,High
+M006,Mr. Rahul,Career,18,9,Medium
+M007,Dr. Neha,Academic,12,5,High
+M008,Mr. Vikram,Career,15,7,High
